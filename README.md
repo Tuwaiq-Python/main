@@ -15,15 +15,15 @@ Hi Everyone, Welcome to Python Backend bootcamp. This repository contains inform
 
 |Days|Time|
 | :- | :- |
-|Sun - Thurs|10am - 6pm|
+|Sun - Thurs|09am - 05pm|
 
 
 
 ## **Breaks**
 
-|Break 1|12:30 p.m. to 01:30 p.m.|
+|Break 1|12:00 p.m. to 01:00 p.m.|
 | :- | :- |
-|Break 2|03:30 p.m. to 04:00 p.m.|
+|Break 2|03:00 p.m. to 03:30 p.m.|
 
 
 
