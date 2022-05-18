@@ -86,7 +86,7 @@ Hi Everyone, Welcome to Python Backend bootcamp. This repository contains inform
 
 |Day|Subject|Resources|Lab|Assignment|
 | :- | :- | :- | :- | :- |
-|Day 1|<p>- Virtual Environments </p><p>- PIP</p><p>- Introduction to Django</p><p>- Creating the first Django Project</p><p>- MVT </p>||||
+|Day 1|<p>- Introduction to Django </p> <p>- Web Frameworks</p> <p>- MVC and MVT</p> <p>- Download Django</p> <p>- Intro to World Wide Web</p> <p>- How does internet work?</p> <p>- Django Projects and Apps</p> <p>- HttpRequest and HttpResponse</p> <p>- View</p> <p>- Router (URL Mapping)</p> <p>- Template</p> ||||
 |Day 2|<p>- Views and Templates</p><p>- Router (URL Mapping)</p><p>- Database setup and connection</p><p>- PostgreSQL databases</p>||||
 |Day 3|<p>- Models </p><p>- ORM and Migrations</p><p>- CRUD on database</p>||||
 |Day 4|<p>- Django Admin</p><p>- CRUD on Admin</p>||||
