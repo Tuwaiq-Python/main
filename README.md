@@ -87,10 +87,11 @@ Hi Everyone, Welcome to Python Backend bootcamp. This repository contains inform
 |Day|Subject|Resources|Lab|Assignment|
 | :- | :- | :- | :- | :- |
 |Day 1|<p>- Introduction to Django </p> <p>- Web Frameworks</p> <p>- MVC and MVT</p> <p>- Download Django</p> <p>- Intro to World Wide Web</p> <p>- How does internet work?</p> <p>- Django Projects and Apps</p> <p>- HttpRequest and HttpResponse</p> <p>- View</p> <p>- Router (URL Mapping)</p> <p>- Template</p> |- [Introduction to Web Development using Django Framework](https://github.com/Tuwaiq-Python/main/tree/main/Django/Day1)| - [Lab1]() | -[HW1]()|
-|Day 2|<p>- Views and Templates</p><p>- Router (URL Mapping)</p><p>- Database setup and connection</p><p>- PostgreSQL databases</p>||||
-|Day 3|<p>- Models </p><p>- ORM and Migrations</p><p>- CRUD on database</p>||||
-|Day 4|<p>- Django Admin</p><p>- CRUD on Admin</p>||||
-|Day 5|<p>- Static Files</p><p>- Media Files</p><p>- Unit Project</p>||||
+|Day 2|<p>- ORM and Migrations</p> <p>- Django Databases</p> <p>- Models</p> <p>- Model’s Fields</p> <p>- CRUD on databases</p> <p>- Relationships</p> <p>- PostgreSQL databases</p> <p>- PostgreSQL setup and connection</p> ||||
+|Day 3|<p>- Django Admin</p> <p>- CRUD on Admin</p> <p>- Add Users and Groups</p> <p>- Customize Admin Interface</p> ||||
+|Day 4|<p>- Static Files </p> <p>- Media Files</p> ||||
+|Day 5|<p>- Forms</p> <p>- Form Validation</p> <p>- Mini Project</p> ||||
+
 
 
 
@@ -102,11 +103,12 @@ Hi Everyone, Welcome to Python Backend bootcamp. This repository contains inform
 
 |Day|Subject|Resources|Lab|Assignment|
 | :- | :- | :- | :- | :- |
-|Day 1|<p>- Forms</p><p>- Form Validation</p>||||
-|Day 2|- Sessions and Authentication||||
-|Day 3|<p>- Building a REST API</p><p>- Serializers</p>||||
-|Day 4|<p>- Django Third-Party Libraries</p><p>- Django Crispy Forms</p>||||
-|Day 5|<p>- Deployment</p><p>- Unit Project</p>||||
+|Day 1|<p>- Sessions and Authentication </p> ||||
+|Day 2|<p>- Building a REST API</p> <p>- Serializers</p> ||||
+|Day 3|<p>- Django Third-Party Libraries</p><p>- Django Crispy Forms</p>||||
+|Day 4|<p>- Deployment</p> ||||
+|Day 5|<p>- Unit Project</p>||||
+
 
 
 
