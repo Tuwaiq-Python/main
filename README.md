@@ -29,8 +29,7 @@ Hi Everyone, Welcome to Python Backend bootcamp. This repository contains inform
 
 ## **Instructional Team**
 - Aqeel  Aleid
-- Norah Mutlaq
-
+- Nourah AlMutlaq
 
 
 
