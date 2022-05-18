@@ -86,11 +86,13 @@ Hi Everyone, Welcome to Python Backend bootcamp. This repository contains inform
 
 |Day|Subject|Resources|Lab|Assignment|
 | :- | :- | :- | :- | :- |
-|Day 1|<p>- Introduction to Django </p> <p>- Web Frameworks</p> <p>- MVC and MVT</p> <p>- Download Django</p> <p>- Intro to World Wide Web</p> <p>- How does internet work?</p> <p>- Django Projects and Apps</p> <p>- HttpRequest and HttpResponse</p> <p>- View</p> <p>- Router (URL Mapping)</p> <p>- Template</p> ||||
+|Day 1|<p>- Introduction to Django </p> <p>- Web Frameworks</p> <p>- MVC and MVT</p> <p>- Download Django</p> <p>- Intro to World Wide Web</p> <p>- How does internet work?</p> <p>- Django Projects and Apps</p> <p>- HttpRequest and HttpResponse</p> <p>- View</p> <p>- Router (URL Mapping)</p> <p>- Template</p> |- [Introduction to Web Development using Django Framework](https://github.com/Tuwaiq-Python/main/tree/main/Django/Day1)| - [Lab1]() | -[HW1]()|
 |Day 2|<p>- Views and Templates</p><p>- Router (URL Mapping)</p><p>- Database setup and connection</p><p>- PostgreSQL databases</p>||||
 |Day 3|<p>- Models </p><p>- ORM and Migrations</p><p>- CRUD on database</p>||||
 |Day 4|<p>- Django Admin</p><p>- CRUD on Admin</p>||||
 |Day 5|<p>- Static Files</p><p>- Media Files</p><p>- Unit Project</p>||||
+
+
 
 
 
