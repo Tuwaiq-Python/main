@@ -86,7 +86,7 @@ Hi Everyone, Welcome to Python Backend bootcamp. This repository contains inform
 
 |Day|Subject|Resources|Lab|Assignment|
 | :- | :- | :- | :- | :- |
-|Day 1|<p>- Introduction to Django </p> <p>- Web Frameworks</p> <p>- MVC and MVT</p> <p>- Download Django</p> <p>- Intro to World Wide Web</p> <p>- How does internet work?</p> <p>- Django Projects and Apps</p> <p>- HttpRequest and HttpResponse</p> <p>- View</p> <p>- Router (URL Mapping)</p> <p>- Template</p> |- [Introduction to Web Development using Django Framework](https://github.com/Tuwaiq-Python/main/tree/main/Django/Day1)| - [Lab1]() | -[HW1]()|
+|Day 1|<p>- Introduction to Django </p> <p>- Web Frameworks</p> <p>- MVC and MVT</p> <p>- Download Django</p> <p>- Intro to World Wide Web</p> <p>- How does internet work?</p> <p>- Django Projects and Apps</p> <p>- HttpRequest and HttpResponse</p> <p>- View</p> <p>- Router (URL Mapping)</p> <p>- Template</p> |- [Web Development with Django](https://github.com/Tuwaiq-Python/main/tree/main/Django/Day1)| - [Lab1]() | -[HW1]()|
 |Day 2|<p>- ORM and Migrations</p> <p>- Django Databases</p> <p>- Models</p> <p>- Model’s Fields</p> <p>- CRUD on databases</p> <p>- Relationships</p> <p>- PostgreSQL databases</p> <p>- PostgreSQL setup and connection</p> |- [Django Databases](https://github.com/Tuwaiq-Python/main/tree/main/Django/Day2)|||
 |Day 3|<p>- Django Admin</p> <p>- CRUD on Admin</p> <p>- Add Users and Groups</p> <p>- Customize Admin Interface</p> |- [Django Admin](https://github.com/Tuwaiq-Python/main/tree/main/Django/Day3)|||
 |Day 4|<p>- Static Files </p> <p>- Media Files</p> |- [Media and Static Files](https://github.com/Tuwaiq-Python/main/tree/main/Django/Day4)|||
